@@ -37,3 +37,25 @@ int main() {
 
     return 0;
 }
+
+
+
+//WT - WAITING TIME
+//BT-BURST TIME
+//TAT- TURN AROUND TIME
+/*Enter the number of processes: 5
+Enter Burst Time for Process 1: 2
+Enter Burst Time for Process 2: 3
+Enter Burst Time for Process 3: 4
+Enter Burst Time for Process 4: 5
+Enter Burst Time for Process 5: 6
+
+PROCESS BURST TIME      WAITING TIME    TURNAROUND TIME
+P1      2               0               2
+P2      3               2               5
+P3      4               5               9
+P4      5               9               14
+P5      6               14              20
+Average Waiting Time: 6
+Average Turnaround Time: 9.6
+    */
