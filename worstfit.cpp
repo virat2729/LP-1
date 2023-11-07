@@ -59,6 +59,6 @@ File 2: 4
 
 OUTPUT
 File No 	File Size		Block No	Block Size 	Fragment
-1 	1 		1 		5 		4
-2 	4		 3 		7 		3
+1 	            1 	         	1     		5 		4
+2 	            4		        3 	     	7 		3
 */
